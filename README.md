@@ -4,3 +4,11 @@
 This blog is a tool for enabling people to share knowledge between them, giving each person the possibility to write his articles and share them with the world. This permits each person to learn from the experiences of the other.
 
 This blog is mainained by the Insea IT Team, but is open for contribution from anyone, whether through an article or through improving the platform.
+
+## TO DO
+- [x] remore .html from urls.
+- [x] create a home page with links to the latest stories on medium
+- [ ] add authors page.
+- [ ] add tags to articles.
+- [ ] add a unified footer and header to all the pages.
+
